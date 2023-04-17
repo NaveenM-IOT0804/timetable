@@ -113,8 +113,8 @@ Execute the program
 # OUPUT
 ![slot](https://user-images.githubusercontent.com/117974950/232542032-4ce4e116-5d4c-478c-bbc6-4000c9aed627.png)
 
-#HTML VALIDATOR
+# HTML VALIDATOR
 ![validator](https://user-images.githubusercontent.com/117974950/232542149-b24ae97b-87fe-4e82-89a0-f4195078e149.png)
 
-#RESULT
+# RESULT
 The program for creating slot time table is compeleted successfully
